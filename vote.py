@@ -1,3 +1,4 @@
+Welcome to Voting-system
 age = int(input(input("Enter your age: "))
 
 if age>=18;
